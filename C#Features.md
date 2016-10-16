@@ -1,0 +1,21 @@
+- nameOf
+- structs (für POCO, sting values) Fluch und Segen
+- immutable
+- Expression Property vs Backing Field
+- optional datatypes ? Operator
+- Null propagation (? ElvisLocke)
+- select().valueOr
+- Lambda Expressions (anonyme Typen)
+- eigene Delegate Typen
+- LinQ Extension Methods
+- IQueryable vs IEnumerable(im eigenen Memory) je nach Provider
+- Conditional Attribut vs "if Debug"
+- exeption catch ausschalten? when debug
+- string interpolation $ vs String.Format 
+- (Humanizer tool)
+- LinQ .AsParallel (Achtung!!)
+- (AutoFixture)
+- Predicates für Where -> meistens nicht machen!
+- Code Contracts für Schnittstellen
+- c# 7 Pattern Matching
+- TypeProvider aus F# kopieren
