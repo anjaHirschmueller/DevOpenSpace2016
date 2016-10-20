@@ -30,6 +30,7 @@ Nachträglich eingefügt:
 - CodinGame
 - CodeFights: Arcade
 https://entwickler.de/online/tools/coding-games-entwickler-290531.html?utm_source=tw&utm_medium=social&utm_content=wd
+- Screeps (http://store.steampowered.com/app/464350/)
 
 - First lego league
 - RoboCup junior
